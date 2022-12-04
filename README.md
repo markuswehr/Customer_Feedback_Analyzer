@@ -2,12 +2,12 @@
 
 This repository contains a tool that scrapes feedback from the app store, analyzes it using topic modeling and semantic serach and displays the results in a streamlit app.
 
-##Requirements
+## Requirements
 
 - pip
 - python3
 
-##Installation
+## Installation
 
 To install the dependencies, run the following command:
 
@@ -27,6 +27,7 @@ This will start the streamlit app on your local machine. You can then use the ap
 
 ## Repo structure
 
+```
 customer-feedback-analyzer/
 ├── app.py
 ├── data/
@@ -41,6 +42,7 @@ customer-feedback-analyzer/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
 
 ## Contributing
 If you want to contribute to this project, please fork the repository and create a pull request with your changes. All contributions are 
